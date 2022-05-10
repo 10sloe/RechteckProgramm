@@ -8,6 +8,7 @@ void setup()
 
 void draw()
 {
+  background(200);
   r1.zeichnen();
 }
 
